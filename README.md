@@ -14,6 +14,7 @@ You must ensure that your assignment compiles and runs with following commands w
 project root directory (where the pom.xml file is): 
 
 To compile: mvn clean compile test 
+
 To run: java -cp target/classes bguspl.set.Main 
 
 
