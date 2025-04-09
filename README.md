@@ -1,6 +1,7 @@
 # SET Card Game 🃏
 
 An implementation of the SET card game in Java, developed as part of a university project.
+OS: Linux
 
 # Technologies
 - Java
